@@ -24,3 +24,6 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 - `index.css`: Stylesheet for the game
 - `index.js`: Game logic
 
+## Author
+Nikhil
+
