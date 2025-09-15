@@ -18,6 +18,7 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 2. Players take turns marking o and x.
 3. The game announces the winner or a draw when the game ends.
 4. Refresh the page to play again.
+5.First player always get o and second player always get x
 
 ## Files
 - `index.html`: Main HTML file
