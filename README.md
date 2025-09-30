@@ -1,30 +1,62 @@
 [No content]
-# Tic-Tac-Toe
 
-A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
+<div align="center">
+	<h1>🎮 Tic-Tac-Toe</h1>
+	<p><b>A fun, classic game built with HTML, CSS, and JavaScript!</b></p>
+	<img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" alt="HTML5">
+	<img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" alt="CSS3">
+	<img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" alt="JavaScript">
+</div>
 
-## Features
-- Play against another player on the same device
-- Interactive game board
-- Visual indication of the winner or draw
-- Responsive design
+---
 
-## Installation
-1. Clone or download this repository.
-2. Open `index.html` in your web browser.
+## ✨ Features
 
-## Usage
-1. Click on any cell to make your move.
-2. Players take turns marking o and x.
-3. The game announces the winner or a draw when the game ends.
-4. Refresh the page to play again.
-5.First player always get o and second player always get x
+✅ Two-player mode (local)
+✅ Interactive and responsive game board
+✅ Visual highlights for winner or draw
+✅ Simple, clean UI
 
-## Files
-- `index.html`: Main HTML file
-- `index.css`: Stylesheet for the game
-- `index.js`: Game logic.
+---
 
-## Author
---Nikhil--
+## 🚀 Getting Started
+
+1. **Clone or download** this repository.
+2. **Open** `index.html` in your favorite web browser.
+
+---
+
+## 🕹️ How to Play
+
+1. Click any empty cell to make your move (Player 1: O, Player 2: X).
+2. Players alternate turns.
+3. The game will announce the winner or a draw.
+4. Refresh the page to play again!
+
+---
+
+## 📸 Screenshot
+
+<!-- Replace the link below with your own screenshot if available -->
+<img src="https://user-images.githubusercontent.com/placeholder/tic-tac-toe-demo.png" alt="Tic-Tac-Toe Screenshot" width="400"/>
+
+---
+
+## 📂 Project Structure
+
+- `index.html` &mdash; Main HTML file
+- `index.css` &mdash; Game styles
+- `index.js` &mdash; Game logic
+
+---
+
+## 👤 Author
+
+**Nikhil**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
