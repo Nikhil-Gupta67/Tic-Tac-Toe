@@ -32,7 +32,6 @@
 2. Players alternate turns.
 3. The game will announce the winner or a draw.
 4. Refresh the page to play again!
-
 ---
 
 ## 📸 Screenshot
