@@ -50,7 +50,7 @@
 
 ---
 
-## 👤 Author
+## 👤 Author BY
 
 **Nikhil**
 
