@@ -1,4 +1,4 @@
-[No content]--
+[No content]---
 
 <div align="center">
 	<h1>🎮 Tic-Tac-Toe</h1>
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features---
 
 ✅ Two-player mode (local)
 ✅ Interactive and responsive game board
