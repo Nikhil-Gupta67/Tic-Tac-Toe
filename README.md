@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started---
 
 1. **Clone or download** this repository.
 2. **Open** `index.html` in your favorite web browser.
