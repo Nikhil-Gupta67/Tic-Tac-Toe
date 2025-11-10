@@ -26,7 +26,7 @@
 
 ---
 
-## 🕹️ How to Play
+## 🕹️ How to Play---
 
 1. Click any empty cell to make your move (Player 1: O, Player 2: X).
 2. Players alternate turns.
