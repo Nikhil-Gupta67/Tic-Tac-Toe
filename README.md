@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure---
 
 - `index.html` &mdash; Main HTML file
 - `index.css` &mdash; Game styles
