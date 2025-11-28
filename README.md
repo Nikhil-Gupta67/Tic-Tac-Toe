@@ -49,7 +49,7 @@
 
 ---
 
-## 👤 Author BY--
+## 👤 Author BY
 
 **Nikhil
 
